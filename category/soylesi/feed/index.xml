@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Söyleşi &#8211; ODTÜ Gastronomi Topluluğu</title>
+	<atom:link href="/category/soylesi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Dec 2016 22:36:28 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Söyleşi: Cotta7</title>
+		<link>/2014/09/28/soylesi-cotta7/</link>
+		<comments>/2014/09/28/soylesi-cotta7/#respond</comments>
+		<pubDate>Sun, 28 Sep 2014 17:41:55 +0000</pubDate>
+		<dc:creator><![CDATA[Mehmet Erhan Üras]]></dc:creator>
+				<category><![CDATA[Arşiv]]></category>
+		<category><![CDATA[Söyleşi]]></category>
+		<category><![CDATA[can koçyıldırım]]></category>
+		<category><![CDATA[cotta7]]></category>
+		<category><![CDATA[ilhan özten]]></category>
+		<category><![CDATA[odtü gastronomi]]></category>
+
+		<guid isPermaLink="false">/?p=322</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/2014/09/28/soylesi-cotta7/">Söyleşi: Cotta7</a> appeared first on <a rel="nofollow" href="/">ODTÜ Gastronomi Topluluğu</a>.</p>
+]]></description>
+		<wfw:commentRss>/2014/09/28/soylesi-cotta7/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Söyleşi: Bilge Şahin</title>
+		<link>/2014/01/02/soylesi-bilge-sahin/</link>
+		<comments>/2014/01/02/soylesi-bilge-sahin/#respond</comments>
+		<pubDate>Thu, 02 Jan 2014 16:32:47 +0000</pubDate>
+		<dc:creator><![CDATA[Mehmet Erhan Üras]]></dc:creator>
+				<category><![CDATA[Arşiv]]></category>
+		<category><![CDATA[Söyleşi]]></category>
+		<category><![CDATA[bilge şahin]]></category>
+		<category><![CDATA[pasta dükkanı]]></category>
+		<category><![CDATA[söyleşi]]></category>
+
+		<guid isPermaLink="false">/?p=186</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/2014/01/02/soylesi-bilge-sahin/">Söyleşi: Bilge Şahin</a> appeared first on <a rel="nofollow" href="/">ODTÜ Gastronomi Topluluğu</a>.</p>
+]]></description>
+		<wfw:commentRss>/2014/01/02/soylesi-bilge-sahin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
